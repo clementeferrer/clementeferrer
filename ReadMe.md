@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Spatio-Temporal Statistics<br>👯 I’m looking to collaborate on Data Science Projects<br>🌱 I’m currently learning Credit Scoring<br>⚡ Fun fact: My name has the same vowel.
 
 
